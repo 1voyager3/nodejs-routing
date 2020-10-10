@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scrypt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +63,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.9.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.11.5" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
@@ -68,8 +76,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,6 +93,8 @@
       <workItem from="1602334103871" duration="867000" />
       <workItem from="1602335087729" duration="9418000" />
       <workItem from="1602353564196" duration="1221000" />
+      <workItem from="1602354992084" duration="142000" />
+      <workItem from="1602355143397" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="Added header menu and footer as separated elements">
       <created>1602339903796</created>
@@ -123,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -132,14 +143,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added jpg request.url" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog" timestamp="1602354871115">
+    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog" timestamp="1602355032472">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602354871115" />
-    <state x="532" y="160" key="Github.UntrackedFilesDialog" timestamp="1602337531604">
+    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602355032472" />
+    <state x="532" y="160" key="Github.UntrackedFilesDialog" timestamp="1602355039244">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="532" y="160" key="Github.UntrackedFilesDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602337531604" />
+    <state x="532" y="160" key="Github.UntrackedFilesDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602355039244" />
     <state x="338" y="84" key="SettingsEditor" timestamp="1602352207050">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

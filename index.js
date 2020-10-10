@@ -5,38 +5,30 @@ console.log("start");
 
 http
   .createServer((request, response) => {
-    if (request.url.endsWith(".css")) {
-      let cssFile = request.url.slice(1);
 
-      fs.readFile(cssFile, (err, data) => {
-        if (err) throw err;
+    if (request.url.startsWith("/public/")) {
 
-        response.setHeader("Content-Type", "text/css");
-        response.statusCode = 200;
-        response.write(data);
-        response.end();
-      });
-    } else if (request.url.endsWith(".js")) {
-      let jsFile = request.url.slice(1);
+      let filePath = request.url.substr(1);
 
-      fs.readFile(jsFile, (err, data) => {
-        if (err) throw err;
+      fs.readFile(filePath, (err, data) => {
+        if (err) {
 
-        response.setHeader("Content-Type", "text/javascript");
-        response.statusCode = 200;
-        response.write(data);
-        response.end();
-      });
-    } else if (request.url.endsWith(".jpg")) {
-      let jpgFile = request.url.slice(1);
+          response.statusCode = 404;
+          response.end('Not Found');
 
-      fs.readFile(jpgFile, (err, data) => {
-        if (err) throw err;
+        } else {
 
-        response.setHeader("Content-Type", "image/jpg");
-        response.statusCode = 200;
-        response.write(data);
-        response.end();
+          const matchText = filePath.match(/\.(js|css)$/);
+          const matchImage = filePath.match(/\.(js|css)$/);
+
+          if (matchText) {
+            response.setHeader('Content-Type', `text/${matchText[1]}`);
+          } else if (matchImage) {
+            response.setHeader('Content-Type', `text/${matchImage[1]}`);
+          }
+          response.end(data);
+        }
+        return;
       });
     } else {
       getPage(request.url, response);
