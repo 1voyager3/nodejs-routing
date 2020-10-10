@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ibbvPvsu96dpEM6ZkjQKL4hImT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.9.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.39195636" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="" />
+      <created>1602179469907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602179469907</updated>
+      <workItem from="1602179471789" duration="19618000" />
+      <workItem from="1602331536048" duration="2274000" />
+      <workItem from="1602334103871" duration="867000" />
+      <workItem from="1602335087729" duration="9418000" />
+      <workItem from="1602353564196" duration="1221000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added header menu and footer as separated elements">
+      <created>1602339903796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602339903796</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added css and js script">
+      <created>1602350150388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602350150388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added jpg request.url">
+      <created>1602351062528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602351062528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added header menu and footer as separated elements" />
+    <MESSAGE value="Added css and js script" />
+    <MESSAGE value="Added jpg request.url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added jpg request.url" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog" timestamp="1602354871115">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="719" y="581" width="650" height="354" key="Github.ShareDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602354871115" />
+    <state x="532" y="160" key="Github.UntrackedFilesDialog" timestamp="1602337531604">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="532" y="160" key="Github.UntrackedFilesDialog/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602337531604" />
+    <state x="338" y="84" key="SettingsEditor" timestamp="1602352207050">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="338" y="84" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602352207050" />
+    <state x="282" y="334" key="Vcs.Push.Dialog.v2" timestamp="1602354774947">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="282" y="334" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602354774947" />
+    <state x="353" y="336" key="run.anything.popup" timestamp="1602275892702">
+      <screen x="0" y="22" width="2560" height="1418" />
+    </state>
+    <state x="353" y="336" key="run.anything.popup/2560.22.1920.1058/0.22.2560.1418@0.22.2560.1418" timestamp="1602275892702" />
+    <state x="351" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1602276420980">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="351" y="-2" width="1009" height="1470" key="search.everywhere.popup/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602276420980" />
+  </component>
+</project>
