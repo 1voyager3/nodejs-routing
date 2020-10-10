@@ -43,6 +43,13 @@ const getPage = (name, response, statusCode = 200) => {
 
                 layout = layout.replace(/\{\{get content\}\}/g, content);
 
+                let title = content.match(/\{\{set title "*(.*?)"\}\}/);
+                if (title) {
+                    layout = layout.replace(/\{\{get title\}\}/g, title[1]);
+
+                    layout = layout.replace(/\{\{set title ".*?"\}\}/, '');
+                }
+
                 fs.readFile("elems/menu.html", "utf8", (err, menu) => {
                     if (err) throw err;
 

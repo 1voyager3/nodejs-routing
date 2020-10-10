@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="Added the response files from new public folder">
-      <change afterPath="$PROJECT_DIR$/layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldPages/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldPages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldPages/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldPages/index.html" afterDir="false" />
+    <list default="true" id="dd75860f-905b-480e-89d7-5a959239c033" name="Default Changelist" comment="Added one page layout for all pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
@@ -99,7 +95,7 @@
       <workItem from="1602335087729" duration="9418000" />
       <workItem from="1602353564196" duration="1221000" />
       <workItem from="1602354992084" duration="142000" />
-      <workItem from="1602355143397" duration="5652000" />
+      <workItem from="1602355143397" duration="6883000" />
     </task>
     <task id="LOCAL-00001" summary="Added header menu and footer as separated elements">
       <created>1602339903796</created>
@@ -129,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602358242113</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added one page layout for all pages">
+      <created>1602361739267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602361739267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +156,8 @@
     <MESSAGE value="Added css and js script" />
     <MESSAGE value="Added jpg request.url" />
     <MESSAGE value="Added the response files from new public folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the response files from new public folder" />
+    <MESSAGE value="Added one page layout for all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added one page layout for all pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="581" width="650" height="354" key="Github.ShareDialog" timestamp="1602355032472">
@@ -168,10 +172,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="338" y="84" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602352207050" />
-    <state x="282" y="334" key="Vcs.Push.Dialog.v2" timestamp="1602358244192">
+    <state x="282" y="334" key="Vcs.Push.Dialog.v2" timestamp="1602361741726">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="282" y="334" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602358244192" />
+    <state x="282" y="334" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1602361741726" />
     <state x="353" y="336" key="run.anything.popup" timestamp="1602275892702">
       <screen x="0" y="22" width="2560" height="1418" />
     </state>
